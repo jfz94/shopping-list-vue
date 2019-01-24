@@ -1,6 +1,6 @@
 # Vue.js Fundamentals
 
-[![](https://vueschool.s3.amazonaws.com/089f25af6e0e1f678474f10e98fdb6d0/vuejs-fundamentals.png)](https://vueschool.io/courses/vuejs-fundamentals)
+[![](https://github.com/jfz94/shopping-list-vue/blob/master/img/shoppinglistScreenshoot.PNG)](https://vueschool.io/courses/vuejs-fundamentals)
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
@@ -17,4 +17,3 @@ This Vue.js course will teach you and get you up and running with the fundamenta
 - Vue.js Methods and Computed Properties
 - Attribute Bindings and dynamic classes
 - Components
-
